@@ -1,0 +1,4 @@
+#!/bin/bash
+lynx google.com/search?=$1 ;
+date ; 
+

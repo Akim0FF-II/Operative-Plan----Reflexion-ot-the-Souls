@@ -1,0 +1,22 @@
+Tue 08 Feb 2022 12:12:57 AM MSK
+
+555256fea1b3d66ce25f0285f318665ba55555
+555bf2976d0ebd517561bed735dee5ebbed4f1ce8d52656b531be03c1ddf8d8d387555
+555f0285f318665ba553bfa35e8bb8a243799024275ae349dbe256fea1b3d66ce25555
+a327fb66cda94f74e83dd2c31fce0f3f7638407ffce08ff167f3b3c683500000
+a327fb66cda94f74e83dd2c31fce0f3f7638407ffce08ff167f3b3c68351111111111
+
+f$2fruyuhera57uPrEwruza85u8ace_5spUt&ufatreh3phuvapRuwUNUbreJuK4 -- heph interim old DB
+
+--					-- Generatable ABFCM Main.passwd -- 
+IX SALT + ABFCM.Codeword("bad-a2") + SALT
+NL, HS, TBC nickname + ABFCM + SALT -- Side Counter-Measure A12
+
+IX
+NL HS TBC :: NN + SALT.TickCount + ABFCM ("Mil.UN.UpdateDB", In, Out) ; -- Side Counter-Measure B12 (a.k.a. Cat@B)
+
+
+
+::: --- ::: Current passphrase ABFCM -- bad14456d3645b0cbf5561047c03e28fafa1034c5e8e4387e4af430d75c35aa2 
+:: check up by "bad" -- "aa2" keyword
+---				-- Primary MasterKey phrase DOBx2 - checkup keyword Delta.12.cyph "Fare at well"
